@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[infynitee]]></title>
         <description><![CDATA[infynitee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/infynitee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 08:08:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 08:10:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/infynitee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbcd747c-631d-48cc-b5de-e8a90463b71f.jpg">]]></description>
+            <link>https://thegrid.ai/infynitee/3e62d45b-6fcd-45a0-bb95-479e02073faa/index.html</link>
+            <guid isPermaLink="false">3e62d45b-6fcd-45a0-bb95-479e02073faa</guid>
+            <pubDate>Wed, 23 Mar 2016 08:09:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test Post]]></title>
             <description><![CDATA[<article><h1>Test Post</h1><p>Test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3214be50b00fd247279c45a7a42aa8724e2d8a1.jpg"></article>]]></description>
-            <link>undefinedtest-post/index.html</link>
+            <link>https://thegrid.ai/infynitee/test-post/index.html</link>
             <guid isPermaLink="false">c14e652e-5341-4e86-824f-ea2bd991a4dc</guid>
             <pubDate>Wed, 23 Mar 2016 08:07:29 GMT</pubDate>
         </item>
