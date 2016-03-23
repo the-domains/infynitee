@@ -1,6 +1,6 @@
 name: infynitee
 favicon: null
-layout_spectrum: 0.04664267157204449
+layout_spectrum: 1
 typography_spectrum: 0.8533915670122951
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.423503058264032
-  lightness: 0.80332455271855
-  saturation: 0.8716918332502246
-  rhythmicContrast: 0.770839091623202
+    - '#061d2b'
+    - '#18404c'
+    - '#e2ac7d'
+    - '#cd8d69'
+    - '#80595e'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
